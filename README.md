@@ -18,7 +18,10 @@ $java -jar target/roman-calculator-0.0.1-SNAPSHOT.jar
 ```
 
 5. Then, type in the input file name.
-I've attached a sample input file "input-roman.txt" so you can type in the "input-roman.txt" and press Enter
+I also attached a sample input file "input-roman.txt" so you can type in the "input-roman.txt" and press Enter
+```
+Please input file name: input-roman.txt
+```
 
 6. Open the "output-roman.txt" file to see the output
 
